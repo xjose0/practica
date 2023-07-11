@@ -61,7 +61,7 @@ public class PrimitoController {
     }
 
 
-    /*@RequestMapping("/hola")
+    @RequestMapping("/hola")
     public String holaMundo(){
         return "Hola mundo kukoooooooo";
     }
@@ -101,5 +101,5 @@ public class PrimitoController {
                                 
                 """;
     }
-     */
+
 }
