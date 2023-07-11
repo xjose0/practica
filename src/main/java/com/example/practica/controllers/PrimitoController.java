@@ -66,7 +66,7 @@ public class PrimitoController {
         return "Hola mundo kukoooooooo";
     }
 
-    @RequestMapping("/bootstrap")
+    @RequestMapping("/")
     public String getBootstrap(){
         return """
                                 
